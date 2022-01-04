@@ -7,3 +7,9 @@ If you want to learn how to build this yourself you can check out the YouTube vi
 
 ## License
 [MIT](LICENSE.md) © [Max Sandelin](https://instagram.com/themaxsandelin)
+
+---
+
+![image](https://github.com/Sagleft/Sagleft/raw/master/image.png)
+
+### :globe_with_meridians: [Telegram канал](https://t.me/+VIvd8j6xvm9iMzhi)
